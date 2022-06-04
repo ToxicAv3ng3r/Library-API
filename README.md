@@ -74,4 +74,6 @@ python3 manage.py createsuperuser
 ```
 ### Пример запроса-ответа
 
+Авторы и книги могут не совпадать :)
+
 ![img.png](img.png)
